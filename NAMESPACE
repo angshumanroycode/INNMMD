@@ -1,0 +1,6 @@
+useDynLib(INNMMD, .registration=TRUE)
+export(innmmd.test.preset)
+export(innmmd.test)
+importFrom(Rcpp, evalCpp)
+importFrom(stats, quantile)
+importFrom(stats, dist)
