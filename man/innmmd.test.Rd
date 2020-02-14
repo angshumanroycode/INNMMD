@@ -48,7 +48,7 @@ A list of following components:
   \item{Tsum.stat}{
 The value of the test statistic Tsum.
 }
-  \item{Tsum.max}{
+  \item{Tmax.stat}{
 The value of the test statistic Tmax.
 }
   \item{Tsum.cutoff}{

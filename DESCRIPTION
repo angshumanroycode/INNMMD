@@ -1,7 +1,7 @@
 Package: INNMMD
 Type: Package
 Title: Test of independence based on ranks of nearest neighbour and MMD
-Version: 0.9.4
+Version: 0.9.5
 Author: Angshuman Roy
 Maintainer: Angshuman Roy <angshuman.roy.89@gmail.com>
 Description: Test of independence among several random vectors based on ranks of nearest neighbors and MMD.
